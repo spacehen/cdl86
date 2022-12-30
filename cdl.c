@@ -1,4 +1,4 @@
-/* cdl (Compact Detour Library) - cdl.c
+/* cdl86 (Compact Detour Library) - cdl.c
  *
  * Experimental Linux x86_64 detour library.
  *
