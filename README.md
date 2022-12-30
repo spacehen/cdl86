@@ -1,8 +1,9 @@
-# CDL
-Compact Detour Library (C)
+# cdl86
+
+cdl - Compact Detour Library
 
 # Abstract
-CDL is an experimental detours library written in C for x86_64 Linux. It allows
+cdl86 is an experimental detours library written in C for x86_64 Linux. It allows
 for the interception of C/C++ functions in memory. These functions may be
 standalone or PLT (Procedure Linkage Table) calls.
 
@@ -30,7 +31,7 @@ This project is still in alpha stage.
 
 # Info
 **cdl.c** - C source file for CDL. <br>
-**cdk.h** - CDL header file to include.
+**cdl.h** - CDL header file to include.
 
 Folders:
 * **/tests** - CDL test suite. Run `make all`.
