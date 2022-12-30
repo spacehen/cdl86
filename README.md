@@ -16,7 +16,7 @@ x86_64 disassembly engine.
 
 # API
 ```
-struct cdl_jmp_patch  cdl_jmp_attach(void **target, void *detour);
+struct cdl_jmp_patch cdl_jmp_attach(void **target, void *detour);
 struct cdl_swbp_patch cdl_swbp_attach(void **target, void *detour);
 void cdl_jmp_detach(struct cdl_jmp_patch *jmp_patch);
 void cdl_swbp_detach(struct cdl_swbp_patch *swbp_patch);
