@@ -3,7 +3,7 @@ Compact Detour Library (C)
 
 # Abstract
 CDL is an experimental detours library for x86_64 Linux. It allows
-for the interception of C/C++ functions. These functions may be
+for the interception of C/C++ functions in memory. These functions may be
 standalone or PLT (Procedure Linkage Table) calls.
 
 This project makes use of the [udis86](https://github.com/vmt/udis86)
