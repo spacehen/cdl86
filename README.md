@@ -7,8 +7,8 @@ for the interception of C/C++ functions in memory. These functions may be
 standalone or PLT (Procedure Linkage Table) calls.
 
 The library currently supports two types of function hooks:
-* JMP patch - patches origin function with a JMP to detour
-* INT3 patch - places software breakpoint at origin address. Handles control flow to detour.
+* JMP patch - patches origin function with a JMP to detour.
+* INT3 patch - places software breakpoint (SWBP) at origin address. Handles control flow to detour.
 
 This project makes use of the [udis86](https://github.com/vmt/udis86)
 x86_64 disassembly engine.
