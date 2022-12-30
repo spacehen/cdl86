@@ -2,7 +2,7 @@
 Compact Detour Library (C)
 
 # Abstract
-CDL is an experimental detours library for x86_64 Linux. It allows
+CDL is an experimental detours library written in C for x86_64 Linux. It allows
 for the interception of C/C++ functions in memory. These functions may be
 standalone or PLT (Procedure Linkage Table) calls.
 
