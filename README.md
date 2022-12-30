@@ -1,6 +1,6 @@
 # cdl86
 
-cdl - Compact Detour Library
+cdl86 - Compact Detour Library 86
 
 # Abstract
 cdl86 is an experimental detours library written in C for x86_64 Linux. It allows
