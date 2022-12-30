@@ -35,5 +35,3 @@ This project is still in alpha stage.
 
 Folders:
 * **/tests** - CDL test suite. Run `make all`.
-
-**Project Completion Date: 30/12/2022**
