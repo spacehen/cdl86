@@ -43,7 +43,6 @@
 #include <signal.h>
 #include <ucontext.h>
 #include <inttypes.h>
-#include <link.h>
 
 /* Local includes */
 #include "lib/udis86.h"
