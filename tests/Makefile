@@ -1,5 +1,5 @@
 IDIR=../
-CC=gcc
+CC=tcc
 CFLAGS=-I$(IDIR)
 CFILES_CDL=../cdl.c
 CFILES_UDIS86=../lib/libudis86/*.c
